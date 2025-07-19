@@ -1,0 +1,46 @@
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Power BI Desktop
+- Power Query Editor
+- DAX (Data Analysis Expressions)
+- Excel
+- Power BI Service (for publishing & sharing)
+
+---
+
+## 🔐 Row-Level Security (RLS)
+
+Dynamic RLS is implemented using:
+- A mapping table between user emails and markets
+- The `USERPRINCIPALNAME()` DAX function
+
+This ensures managers can only view data for their assigned markets when accessing the report in Power BI Service.
+
+---
+
+## 📥 How to Use
+
+1. Clone or download this repository
+2. Open the `.pbix` file using Power BI Desktop
+3. Interact with visuals using slicers or the Q&A box
+4. Test RLS with different user roles if published
+
+---
+
+## 👩‍💼 About Me
+
+**Chandani Prasad**  
+Aspiring Data Analyst | Power BI Developer  
+📧 chandani@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/YOURPROFILE)
+
+---
+
+## ⭐ Feedback & Support
+
+If this project helped you or you found it interesting, please ⭐ star the repository.  
+Feel free to share feedback or connect with me on LinkedIn!
+
