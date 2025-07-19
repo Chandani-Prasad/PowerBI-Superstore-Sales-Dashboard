@@ -33,4 +33,13 @@ A professional Power BI dashboard project that analyzes **Sales and Profit Perfo
 ---
 
 ## 📁 Project Structure
+PowerBI-Superstore-Dashboard/
+├── Superstore-Sales-Dashboard.pbix         → Power BI report file
+├── Data/
+│   └── SuperstoreData.xlsx                 → Excel data source
+├── Screenshots/
+│   ├── Page1-Sales-Report.png              → Visual from Dashboard Page 1
+│   └── Page2-Country-Sales-by-Map.png      → Visual from Dashboard Page 2
+└── README.md                               → Project documentation file
+
 
